@@ -1,5 +1,5 @@
 
-<img style="width: 1280px; height: 640px;" src="https://github.com/mattes2008/Open/blob/master/storage/template.jpg" align="center">
+<img src="https://github.com/mattes2008/Open/blob/master/storage/template.jpg" align="center">
 
 # Open.js
 
