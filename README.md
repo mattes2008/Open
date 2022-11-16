@@ -9,3 +9,5 @@ Open is a simple Library, which can be used for many things:
 - doing a simple AjaxCall
 - creating a lot of different HTML-elements
 - and many more
+
+<a href="https://github.com/mattes2008/Open/releases">Download</a>
